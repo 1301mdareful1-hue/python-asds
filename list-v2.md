@@ -1,4 +1,4 @@
-# Unique Methods with Description and Example
+# Methods with Description and Example
 
 ## Python Built-ins
 | Method/Function | Short description | Short example |
